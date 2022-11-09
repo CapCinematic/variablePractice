@@ -1,4 +1,7 @@
 var jobTitle = chef
+jobTitle => dishWasher
+jobTitle => barTender
+
 var firstName = firstName
 var lastName = lastName
 
