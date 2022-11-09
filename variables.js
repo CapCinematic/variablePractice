@@ -1,5 +1,5 @@
-var jobTitle = chef
-_jobTitle => dishWasher
+var jobTitle = headChef
+jobTitle => dishWasher
 jobTitle => barTender
 
 var firstName = firstName
