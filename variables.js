@@ -1,5 +1,5 @@
 var jobTitle = chef
-jobTitle => dishWasher
+_jobTitle => dishWasher
 jobTitle => barTender
 
 var firstName = firstName
@@ -12,3 +12,11 @@ var anyAllergies = true
 anyAllergies => false
 var loveCake = true
 loveCake => false
+
+console.log(jobTitle)
+console.log(firstName)
+console.log(lastName)
+console.log(dateofBirth)
+console.log(socialsecurityNumber)
+console.log(anyAllergies)
+comsole.log(loveCake)
